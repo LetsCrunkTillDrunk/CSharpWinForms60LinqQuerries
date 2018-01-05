@@ -1,0 +1,11 @@
+c:\users\mediff\documents\visual studio 2015\Projects\LINQ\LINQ\bin\Debug\LINQ.exe.config
+c:\users\mediff\documents\visual studio 2015\Projects\LINQ\LINQ\bin\Debug\LINQ.exe
+c:\users\mediff\documents\visual studio 2015\Projects\LINQ\LINQ\bin\Debug\LINQ.pdb
+c:\users\mediff\documents\visual studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.Form1.resources
+c:\users\mediff\documents\visual studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+c:\users\mediff\documents\visual studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.Cache
+c:\users\mediff\documents\visual studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.exe
+c:\users\mediff\documents\visual studio 2015\Projects\LINQ\LINQ\obj\Debug\LINQ.pdb
+D:\MyApps\LINQ_1504881390\LINQ\LINQ\bin\Debug\LINQ.exe.config
+D:\MyApps\LINQ_1504881390\LINQ\LINQ\obj\Debug\LINQ.exe
+D:\MyApps\LINQ_1504881390\LINQ\LINQ\obj\Debug\LINQ.pdb
